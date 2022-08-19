@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/16 17:18:18.000.112,=D:\Projetos\Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 17:07:47.000.829,=D:\Projetos\Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 17:09:09.000.492,C:\Users\Pedro\Desktop\Teste Delphi\UnitCadastro.pas=D:\Projetos\Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 17:09:09.000.492,C:\Users\Pedro\Desktop\Teste Delphi\UnitCadastro.dfm=D:\Projetos\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2022/08/17 17:10:44.000.380,=D:\Projetos\Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 17:11:31.000.709,C:\Users\Pedro\Desktop\Teste Delphi\UnitClassForm.pas=D:\Projetos\Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 17:15:26.000.578,C:\Users\Pedro\Desktop\Teste Delphi\UnitClassForm.pas=</Transaction>
+    <Transaction>2022/08/17 17:15:38.000.549,C:\Users\Pedro\Desktop\Teste Delphi\ProjectTesteDelphi.dproj=D:\Projetos\Delphi\Project1.dproj</Transaction>
+    <Transaction>2022/08/17 17:17:20.000.898,=C:\Users\Pedro\Desktop\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 17:17:42.000.444,C:\Users\Pedro\Desktop\Teste Delphi\UnitPadraoForm.pas=C:\Users\Pedro\Desktop\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 19:29:27.000.435,=C:\Users\Pedro\Desktop\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 19:30:03.000.077,C:\Users\Pedro\Desktop\Teste Delphi\UnitClassCliente.pas=C:\Users\Pedro\Desktop\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 19:30:24.000.441,=C:\Users\Pedro\Desktop\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 19:30:32.000.784,C:\Users\Pedro\Desktop\Teste Delphi\UnitClassBanco.pas=C:\Users\Pedro\Desktop\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:07:23.000.066,=C:\Users\Pedro\Desktop\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:07:36.000.307,C:\Users\Pedro\Desktop\Teste Delphi\UnitPrincipal.pas=C:\Users\Pedro\Desktop\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:07:36.000.307,C:\Users\Pedro\Desktop\Teste Delphi\UnitPrincipal.dfm=C:\Users\Pedro\Desktop\Teste Delphi\Unit1.dfm</Transaction>
+    <Transaction>2022/08/18 18:50:55.000.744,=C:\Users\Pedro\Desktop\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 18:51:03.000.754,C:\Users\Pedro\Desktop\Teste Delphi\UnitCliente.pas=C:\Users\Pedro\Desktop\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 19:11:20.000.288,C:\Users\Pedro\Desktop\Teste Delphi\UnitClassCliente.pas=</Transaction>
+    <Transaction>2022/08/18 19:11:29.000.012,C:\Users\Pedro\Desktop\Teste Delphi\UnitClassCliente.pas=C:\Users\Pedro\Desktop\Teste Delphi\UnitCliente.pas</Transaction>
+  </Transactions>
+</BorlandProject>
